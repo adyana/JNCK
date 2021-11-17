@@ -1,0 +1,15 @@
+{
+    "PRIVATE": {
+        "t0": 1632751200,
+        "t1": 1640527200,
+        "day1Percent": 10,
+        "duration": 72532800,
+        "beneficiaries": [
+            {
+                "name": "BSCTest1",
+                "address": "0xa073d62eAFB680bcFecF95c23654dfEef0bAF072",
+                "amount": 100
+            }
+        ]
+    }
+}
