@@ -71,7 +71,7 @@ async function createVestingContract(
   console.log(
     `Transferring ${tokenAmount
       .div(DECIMALS)
-      .toString()} CRACE tokens to '${name}' @ ${contractAddress}`
+      .toString()} JNCK tokens to '${name}' @ ${contractAddress}`
   );
   await tokenInstance.transfer(contractAddress, tokenAmount);
 };
