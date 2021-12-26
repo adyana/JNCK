@@ -1,3 +1,3 @@
-# CRACE
+# JNCK
 
-Smart contracts for Coinracer
+Smart contracts for JNCK
